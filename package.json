@@ -1,0 +1,19 @@
+{
+  "name": "express-handlebars-jwt",
+  "version": "1.0.0",
+  "description": "an express server with handlebars and jwt authentication built in",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshterrill/express-handlebars-jwt.git"
+  },
+  "author": "Josh Terrill",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joshterrill/express-handlebars-jwt/issues"
+  },
+  "homepage": "https://github.com/joshterrill/express-handlebars-jwt#readme"
+}
